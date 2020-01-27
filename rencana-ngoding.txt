@@ -1,10 +1,14 @@
 Web Development
 - HTML
-  * HTML5
 - CSS
   * CSS3
 - Javascript
   * ES6
   * Framework
+   > Vue
+   > React
 - PHP
+ * Framework
+  > Laravel
+  > CodeIgniter
 - MYSQL
