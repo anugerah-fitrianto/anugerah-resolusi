@@ -8,4 +8,3 @@ Web Development
   * Framework
 - PHP
 - MYSQL
-  * Firebase
